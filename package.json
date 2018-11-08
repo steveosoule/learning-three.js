@@ -1,0 +1,22 @@
+{
+  "name": "learning-three-js",
+  "version": "1.0.0",
+  "description": "A collection of some three.js examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveosoule/learning-three.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steveosoule/learning-three.js/issues"
+  },
+  "homepage": "https://github.com/steveosoule/learning-three.js#readme",
+  "dependencies": {
+    "three.js": "^0.77.1"
+  }
+}
